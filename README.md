@@ -39,5 +39,3 @@ Proyecto final del curso, con análisis reales y visualizaciones interactivas.
 
 - ✉️ eric.cardenas@email.com 
 
-
--->
