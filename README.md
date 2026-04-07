@@ -1,6 +1,6 @@
 # 👋 Hola, soy Eric Cárdenas
 
-Licenciado en Física con interés en el análisis de datos, ciencia aplicada y herramientas tecnológicas que conectan datos con decisiones.
+Me encuentro cursando el grado de Licenciado en Física con interés en el análisis de datos, ciencia aplicada y herramientas tecnológicas que conectan datos con decisiones.
 
 ---
 
